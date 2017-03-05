@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src= 'GitHubRepo.gif'>
-<<img src= 'GitHubRepo.gif1'>>
+<img src= 'GitHubRepo.gif1'>
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
